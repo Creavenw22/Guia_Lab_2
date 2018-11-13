@@ -21,7 +21,7 @@ namespace PruebaGeometria
             Rectangulo rectangulo = new Rectangulo(punto1, punto2);
 
             Console.WriteLine("Rectangulo:\n");
-            Console.WriteLine(rectangulo.Area);
+            
             rectangulo.Mostrar();
 
             Console.ReadLine();
