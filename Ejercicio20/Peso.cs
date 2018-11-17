@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio20
+namespace Billetes
 {
-    class Peso
+    public class Peso
     {
+        #region Atributes
+        private double cantidad;
+        private float cotizRespectoDolar;
+
+        #endregion
     }
 }

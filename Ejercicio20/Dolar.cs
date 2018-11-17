@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio20
+namespace Billetes
 {
-    class Dolar
+    public class Dolar
     {
     }
 }

@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace Ejercicio20
 {
-    class Program
+    class Ejercicio_20
     {
         static void Main(string[] args)
         {
+            Console.Title = "Ejercicio Nro 20";
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
+
         }
     }
 }
